@@ -25,6 +25,8 @@ form.d-flex::before {
 .exp-gratis{
     background-color: #ffc107;
     color: #202021a8;
+    display: flex;
+    align-items: center;
 }
 .exp-gratis:hover{
   color: #000 !important;

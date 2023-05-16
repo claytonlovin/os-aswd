@@ -1,5 +1,5 @@
   
-const words = ["Opensource", "Escalável", "Rápido", "Eficaz"];
+const words = ["Opensource", "Scalable", "Fast", "Effective"];
 let i = 0;
 let j = 0;
 let currentWord = "";
